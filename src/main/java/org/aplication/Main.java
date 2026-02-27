@@ -21,11 +21,5 @@ public class Main {
 
         System.out.println(apiService.getEndereco(cepBuscado));
 
-
-
-
-
-
-
     }
 }
